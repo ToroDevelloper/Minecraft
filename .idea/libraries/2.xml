@@ -1,0 +1,61 @@
+<component name="libraryTable">
+  <library name="2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lootintegrations-fabric-1.21-4.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cloth-config-15.0.140-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dungeons-and-taverns-pillager-outpost-overhaul-v3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mob-ai-tweaks-1.9.1-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Structory_Towers_1.21.x_v1.0.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spellbound-weapons-v4.1.0c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Structory_1.21.x_v1.3.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dungeons-and-taverns-ocean-monument-replacement-v1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ForgeConfigAPIPort-v21.1.4-1.21.1-Fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dungeons-and-taverns-jungle-temple-replacement-v1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cupboard-fabric-1.21-2.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BetterF3-11.0.3-Fabric-1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ExplorersCompass-1.21.1-2.2.5-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dungeons-and-taverns-stronghold-overhaul-v2.1.f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/voicechat-fabric-1.21.1-2.6.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/chat_heads-0.14.0-fabric-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IllagerInvasion-v21.1.6-1.21.1-Fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tenshilib-1.21.1-2.2.3-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/entityculling-fabric-1.9.3-mc1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libIPN-fabric-1.21-6.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RoguelikeDungeons-2.1.0-1.21.1-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DungeonsArise-1.21.1-2.1.68-fabric-release.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FabricShieldLib-1.7.2-1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dungeons-and-taverns-ancient-city-overhaul-v2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mobz-4.3.2-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dungeons-and-taverns-swamp-hut-overhaul-v2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/death-counter-1.21-2024.12.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lithium-fabric-0.15.0+mc1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/improvedmobs-1.21.1-1.15.1-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lootintegrations_dungeonsenhanced-1.6 (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/appleskin-fabric-mc1.21-3.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric-api-0.116.7+1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/PuzzlesLib-v21.1.39-1.21.1-Fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sodium-fabric-0.6.13+mc1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dungeons-and-taverns-woodland-mansion-replacement-v1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dungeons-and-taverns-nether-fortress-overhaul-v2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TES-fabric-1.21.1-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jade-1.21.1-Fabric-15.10.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dungeons-and-taverns-desert-temple-replacement-v1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ferritecore-7.0.2-hotfix-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Incendium_1.21.x_v5.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/InventoryProfilesNext-fabric-1.21-2.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dungeons-and-taverns-end-castle-standalone-v1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RoughlyEnoughItems-16.0.799-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lootintegrations_dnt-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/modmenu-11.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dungeons-and-taverns-v4.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/notenoughanimations-fabric-1.10.6-mc1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DungeonsAriseSevenSeas-1.21.x-1.0.4-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/architectury-13.0.8-fabric.jar!/" />
+      <root url="jar://$PROJECT_DIR$/iris-fabric-1.8.8+mc1.21.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/journeymap-fabric-1.21.1-6.0.0-beta.52.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
